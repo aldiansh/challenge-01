@@ -1,0 +1,230 @@
+body {
+    font-family: Helvetica;
+    font-style: normal;
+}
+
+.bg-header {
+    background-color: #f1f3ff;
+}
+
+.fixed-top {
+    background-color: #f1f3ff;
+    position: fixed;
+    height: 72px;
+}
+
+.nav-link {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.bg-button {
+    background-color: #5cb85f !important;
+}
+
+.navbar-brand {
+    background-color: #0d28a6;
+    width: 100px;
+    height: 34px;
+    left: 136px;
+    top: 25px;
+}
+
+.text-start {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    margin-top: 150px;
+}
+
+.car subtitle {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#car {
+    max-width: 100%;
+    margin-top: 150px;
+    width: 704px;
+    height: 407px;
+    left: 736px;
+    top: 97px;
+    float: right;
+    padding-top: 92px px;
+}
+
+.our-service {
+    margin: 0 12% 8% 12%;
+}
+
+.our-service h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.our-service p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+li {
+    list-style: none;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.vector {
+    width: 24px;
+}
+
+.whyus {
+    font-family: helvetica;
+}
+
+.card {
+    border-radius: 0.5vw !important;
+    font-family: helvetica;
+}
+
+.card-body {
+    margin: 0.5vw 1vw 0.5vw 1vw;
+}
+
+.card-body img {
+    margin: 1vw 0 1vw 0;
+}
+
+.card-title {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.card-text {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.carousel h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.carousel p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.testi p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.carousel-inner {
+    margin-left: -24%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.blue-1 {
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    background: #F1F3FF;
+}
+
+.button-slide img {
+    width: 32px;
+    height: 32px;
+    left: 732px;
+    top: 1946px;
+}
+
+.banner {
+    background: #0d28a6;
+    border-radius: 13px;
+    height: 326px;
+    top: 2078px;
+}
+
+.banner h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 90%;
+}
+
+.banner p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.mb-3 h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.mb-3,
+.mb-4 p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.sosmed {
+    height: 32px;
+}
+
+.logo {
+    width: 100px;
+}
